@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceCode\\OOP.NET\\Exersice02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|c:\\sourcecode\\oop.net\\exersice02\\exersice02\\services\\implementations\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|solutionrelative:exersice02\\services\\implementations\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|c:\\sourcecode\\oop.net\\exersice02\\exersice02\\services\\interface\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|solutionrelative:exersice02\\services\\interface\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|c:\\sourcecode\\oop.net\\exersice02\\exersice02\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|solutionrelative:exersice02\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|c:\\sourcecode\\oop.net\\exersice02\\exersice02\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|solutionrelative:exersice02\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|c:\\sourcecode\\oop.net\\exersice02\\exersice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5D495-3347-4E17-ABF7-CFDE9281FEFC}|Exersice02\\Exersice02.csproj|solutionrelative:exersice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Services\\Interface\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Exersice02\\Services\\Interface\\IVehicle.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Services\\Interface\\IVehicle.cs",
+              "RelativeToolTip": "Exersice02\\Services\\Interface\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:45:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Exersice02\\Models\\Car.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Models\\Car.cs",
+              "RelativeToolTip": "Exersice02\\Models\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:44:47.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Services\\Implementations\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Exersice02\\Services\\Implementations\\VehicleService.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Services\\Implementations\\VehicleService.cs",
+              "RelativeToolTip": "Exersice02\\Services\\Implementations\\VehicleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:44:13.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Exersice02\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Exersice02\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:42:59.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Program.cs",
+              "RelativeDocumentMoniker": "Exersice02\\Program.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exersice02\\Exersice02\\Program.cs",
+              "RelativeToolTip": "Exersice02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:54.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

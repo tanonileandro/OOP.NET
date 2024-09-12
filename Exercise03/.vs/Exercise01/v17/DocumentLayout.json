@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceCode\\OOP.NET\\Exercise01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\services\\implementations\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\services\\implementations\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\services\\interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\services\\interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|c:\\sourcecode\\oop.net\\exercise01\\exercise01\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4ED679-2E80-4397-9E68-407BBC178F91}|Exercise01\\Exercise03.csproj|solutionrelative:exercise01\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Exercise01\\appsettings.Development.json",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\appsettings.Development.json",
+              "RelativeToolTip": "Exercise01\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T00:14:53.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Program.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Program.cs",
+              "RelativeToolTip": "Exercise01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:08:29.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonServices.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Services\\Implementations\\PersonServices.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Services\\Implementations\\PersonServices.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Services\\Implementations\\PersonServices.cs",
+              "RelativeToolTip": "Exercise01\\Services\\Implementations\\PersonServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:08:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Services\\Interface\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Services\\Interface\\IPersonService.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Services\\Interface\\IPersonService.cs",
+              "RelativeToolTip": "Exercise01\\Services\\Interface\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:01:25.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Models\\Teacher.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Models\\Teacher.cs",
+              "RelativeToolTip": "Exercise01\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:59:54.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Models\\Student.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Models\\Student.cs",
+              "RelativeToolTip": "Exercise01\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:59:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Models\\Person.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Models\\Person.cs",
+              "RelativeToolTip": "Exercise01\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:59:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\SourceCode\\OOP.NET\\Exercise01\\Exercise01\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Exercise01\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:58:42.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
